@@ -5,7 +5,7 @@ API_URL="https://api.github.com"
 
 # GitHub username and personal access token
 USERNAME=$username #export username="username"
-TOKEN=$token       #export token="token-id"
+TOKEN=$token       #export token="token-id" #Github Classic Token
 
 # User and Repository information
 REPO_OWNER=$1
